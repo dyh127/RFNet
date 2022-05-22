@@ -1,5 +1,5 @@
 # RFNet for Incomplete/Missing Multi-modal Brain Tumor Segmentation
-Official PyTorch implementation of [RFNet: Region-aware Fusion Network for Incomplete Multi-modal Brain Tumor Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Ding_RFNet_Region-Aware_Fusion_Network_for_Incomplete_Multi-Modal_Brain_Tumor_Segmentation_ICCV_2021_paper.pdf)), ICCV2021.
+Official implementation of [RFNet: Region-aware Fusion Network for Incomplete Multi-modal Brain Tumor Segmentation](https://openaccess.thecvf.com/content/ICCV2021/papers/Ding_RFNet_Region-Aware_Fusion_Network_for_Incomplete_Multi-Modal_Brain_Tumor_Segmentation_ICCV_2021_paper.pdf)), ICCV2021.
 
 ## Results
 ### Brats2020
