@@ -54,7 +54,9 @@ tar -xzf cuda-9.0.tar.gz
 ```
 
 ## Usage
-Set dataname, pypath and cudapath in job.sh.
+Set dataname, pypath and cudapath in ```job.sh```.
+
+Set different splits for Brats2018 in L99-100 in ```train.py```.
 
 Then run:
 ```
