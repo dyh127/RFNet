@@ -34,7 +34,7 @@ Brats2018 contains three different training and test splits and the average resu
 
 ###Checkpoints
 | Brats2020 | Brats2018 split1 | Brats2018 split2 | Brats2018 split3 | Brats2015 |
-|--------------------------- | -------- | -------- | -------- |
+|--------------------------- | -------- | -------- | -------- | -------- | 
 |[model]() | [model]() | [model]() | [model]() | [model]() |
 |[log]() | [log]() | [log]() | [log]() | [log]() |
 
