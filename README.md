@@ -12,7 +12,7 @@ All missing and full-set situations (15 situations) are considered during testin
 | RobustSeg                   |  84.17   |  73.45   |  55.49   |
 | RFNet (Ours)                |  86.98   |  78.23   |  61.47   | 
 
-Complete, Core and Enhancing denote the dice score (%) of the whole tumor, the tumor core and the enhancing tumor.
+Complete, Core and Enhancing denote the dice score (%) of the whole tumor, the tumor core and the enhancing tumor, respectively.
 
 ### Brats2018
 
@@ -40,7 +40,9 @@ Brats2018 contains three different training and test splits and the average resu
 
 
 ## Installation
-we use pytorch1.2.0 and cuda9.0.
+We use pytorch1.2.0 and cuda9.0.
+
+For all datasets, we train our networks with ```2 * V100 (16G)```. 
 
 get dataset and environment [here](https://drive.google.com/drive/folders/1AwLwGgEBQwesIDTlWpubbwqxxd8brt5A?usp=sharing) and unzip them.
 ```
