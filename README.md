@@ -35,7 +35,7 @@ Brats2018 contains three different training and test splits and the average resu
 ### Checkpoints and logs
 | Brats2020 | Brats2018 split1 | Brats2018 split2 | Brats2018 split3 | Brats2015 |
 |--------------------------- | -------- | -------- | -------- | -------- | 
-|[model]() | [model]() | [model]() | [model]() | [model]() |
+|[model](https://drive.google.com/file/d/1jK9KAaWfXXBpn3NlGBkn9NxrqSHu-rYG/view?usp=sharing) | [model]() | [model]() | [model]() | [model]() |
 |[log](https://github.com/dyh127/RFNet/blob/main/logs/Brats2020.log) | [log](https://github.com/dyh127/RFNet/blob/main/logs/Brats2018_split1.log) | [log](https://github.com/dyh127/RFNet/blob/main/logs/Brats2018_split2.log) | [log](https://github.com/dyh127/RFNet/blob/main/logs/Brats2018_split3.log) | [log](https://github.com/dyh127/RFNet/blob/main/logs/Brats2015.log) |
 
 
