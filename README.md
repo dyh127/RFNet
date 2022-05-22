@@ -52,7 +52,8 @@ tar -xzf cuda-9.0.tar.gz
 ```
 
 ## Usage
-Set dataname, pypath and cudapath.
+Set dataname, pypath and cudapath in job.sh.
+
 Then run:
 ```
 bash job.sh
