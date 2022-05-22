@@ -32,20 +32,31 @@ Brats2018 contains three different training and test splits and the average resu
 | RobustSeg                   |  84.45   |  69.19   |  57.33   |
 | RFNet (Ours)                |  86.13    |  71.93  |  64.13   | 
 
-###Checkpoints
+### Checkpoints and logs
 | Brats2020 | Brats2018 split1 | Brats2018 split2 | Brats2018 split3 | Brats2015 |
 |--------------------------- | -------- | -------- | -------- | -------- | 
 |[model]() | [model]() | [model]() | [model]() | [model]() |
 |[log]() | [log]() | [log]() | [log]() | [log]() |
 
+
 ## Installation
-get dataset and environment [here]()
 we use pytorch1.2.0 and cuda9.0.
 
+get dataset and environment [here](https://drive.google.com/drive/folders/1AwLwGgEBQwesIDTlWpubbwqxxd8brt5A?usp=sharing) and unzip them.
+```
+tar -xzf BRATS2020_Training_none_npy.tar.gz
+tar -xzf BRATS2018_Training_none_npy.tar.gz
+tar -xzf BRATS2015_Training_none_npy.tar.gz
+tar -xzf pytorch_1.2.0a0+8554416-py36tf.tar.gz
+tar -xzf cuda-9.0.tar.gz
+```
+
 ## Usage
-'''
+Set dataname, pypath and cudapath.
+Then run:
+```
 bash job.sh
-'''
+```
 
 
 ## Citation
