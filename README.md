@@ -6,8 +6,8 @@ Official PyTorch implementation of [RFNet: Region-aware Fusion Network for Incom
 
 All missing and full-set situations (15 situations) are considered during testing. The average results are reported here.
 | Method                      | Complete | Core | Enhancing | 
-| --------------------------- | -------- | ---- | --------- |
-| HeMIS                     | 75.10     | 65.45     | 47.73     |
-| U-HVED | 81.24     | 67.19     | 48.55     | 
-|RobustSeg| 84.17 | 73.45 | 55.49|
-|RFNet (Ours)|86.98 |78.23 | 61.47|
+| --------------------------- | -------- | -------- | -------- |
+| HeMIS                       |  75.10   |  65.45   |  47.73   |
+| U-HVED                      |  81.24   |  67.19   |  48.55   | 
+| RobustSeg                   |  84.17   |  73.45   |  55.49   |
+| RFNet (Ours)                |  86.98   |  78.23   |  61.47   |  
