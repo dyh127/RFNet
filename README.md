@@ -11,6 +11,7 @@ All missing and full-set situations (15 situations) are considered during testin
 | U-HVED                      |  81.24   |  67.19   |  48.55   | 
 | RobustSeg                   |  84.17   |  73.45   |  55.49   |
 | RFNet (Ours)                |  86.98   |  78.23   |  61.47   | 
+
 Complete, Core and Enhancing denote the dice score (%) of the whole tumor, the tumor core and the enhancing tumor.
 
 ### Brats2018
@@ -33,6 +34,7 @@ Brats2018 contains three different training and test splits and the average resu
 
 ###Checkpoints
 | Brats2020 | Brats2018 split1 | Brats2018 split2 | Brats2018 split3 | Brats2015 |
+|--------------------------- | -------- | -------- | -------- |
 |[model]() | [model]() | [model]() | [model]() | [model]() |
 |[log]() | [log]() | [log]() | [log]() | [log]() |
 
