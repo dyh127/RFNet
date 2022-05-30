@@ -63,7 +63,7 @@ Then run:
 bash job.sh
 ```
 
-We obtain the results by evaluating our models in the last epoch with the test set. If you want to evaluate models in other epochs, please use the --resume as in ``job.sh''.
+We obtain the results by evaluating our models in the last epoch with the test set. If you want to evaluate models in other epochs, please use the --resume as in ```job.sh```.
 
 
 
