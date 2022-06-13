@@ -66,7 +66,7 @@ bash job.sh
 ### Note
 1. We obtain the results by evaluating our models in the last epoch with the test set. If you want to evaluate models in other epochs, please use the --resume as in ```job.sh```.
 
-2. We also provide the preprocessing code ```preprocess.py```. When using ```preprocess.py```, you need to set 'src_path' and 'tar_path' in ```preprocess.py```. The data structure in 'src_path' is shown as below:
+2. We also provide the preprocessing code ```preprocess.py```. When using ```preprocess.py```, you need to set the path of raw data 'src_path' and the path of processed data 'tar_path' in ```preprocess.py```. The data structure in 'src_path' is shown as below:
 ```
 BraTS20_Training_001/
     BraTS20_Training_001_flair.nii.gz
