@@ -66,8 +66,23 @@ bash job.sh
 ### Note
 1. We obtain the results by evaluating our models in the last epoch with the test set. If you want to evaluate models in other epochs, please use the --resume as in ```job.sh```.
 
-2. sadf
-
+2. We also provide the preprocessing code ```preprocess.py```. When using ```preprocess.py```, you need to set 'src_path' and 'tar_path' in ```preprocess.py```. The data structure in 'src_path' is shown as below:
+```
+BraTS20_Training_001/
+    BraTS20_Training_001_flair.nii.gz
+    BraTS20_Training_001_t1ce.nii.gz
+    BraTS20_Training_001_t2.nii.gz
+    BraTS20_Training_001_seg.nii.gz
+    BraTS20_Training_001_t1.nii.gz
+BraTS20_Training_002/
+    BraTS20_Training_002_flair.nii.gz
+    BraTS20_Training_002_t1ce.nii.gz
+    BraTS20_Training_002_t2.nii.gz
+    BraTS20_Training_002_seg.nii.gz
+    BraTS20_Training_002_t1.nii.gz
+BraTS20_Training_003/
+...
+```
 
 
 ## Citation
