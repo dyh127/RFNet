@@ -82,6 +82,8 @@ BraTS20_Training_002/
     BraTS20_Training_002_t1.nii.gz
 BraTS20_Training_003/
 ...
+...
+BraTS20_Training_369/
 ```
 
 
