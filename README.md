@@ -54,16 +54,19 @@ tar -xzf cuda-9.0.tar.gz
 ```
 
 ## Usage
-Set dataname, pypath and cudapath in ```job.sh```.
+1. Set dataname, pypath and cudapath in ```job.sh```.
 
-Set different splits for Brats2018 in L99-100 in ```train.py```.
+2. Set different splits for Brats2018 in L99-100 in ```train.py```.
 
-Then run:
+3. Then run:
 ```
 bash job.sh
 ```
 
-We obtain the results by evaluating our models in the last epoch with the test set. If you want to evaluate models in other epochs, please use the --resume as in ```job.sh```.
+### Note
+1. We obtain the results by evaluating our models in the last epoch with the test set. If you want to evaluate models in other epochs, please use the --resume as in ```job.sh```.
+
+2. sadf
 
 
 
