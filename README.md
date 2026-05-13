@@ -32,11 +32,7 @@ Brats2018 contains three different training and test splits and the average resu
 | RobustSeg                   |  84.45   |  69.19   |  57.33   |
 | RFNet (Ours)                |  86.13    |  71.93  |  64.13   | 
 
-### Checkpoints and logs
-| Brats2020 | Brats2018 split1 | Brats2018 split2 | Brats2018 split3 | Brats2015 |
-|--------------------------- | -------- | -------- | -------- | -------- | 
-|[model](https://drive.google.com/file/d/1jK9KAaWfXXBpn3NlGBkn9NxrqSHu-rYG/view?usp=sharing) | [model](https://drive.google.com/file/d/1fEMQ_BZoOcrqDiKKqb9A6-WDibz91h5p/view?usp=sharing) | [model](https://drive.google.com/file/d/1Lg9iSvl0vYY6djuEozkJdAlm36REjdJX/view?usp=sharing) | [model](https://drive.google.com/file/d/17NHjTB3AKqWXxLvzXTHOjO_0tRdOGGp_/view?usp=sharing) | [model](https://drive.google.com/file/d/1TXKJM9-tkt60K7tDYIhMy-UUzQ1XQFA6/view?usp=sharing) |
-|[log](https://github.com/dyh127/RFNet/blob/main/logs/Brats2020.log) | [log](https://github.com/dyh127/RFNet/blob/main/logs/Brats2018_split1.log) | [log](https://github.com/dyh127/RFNet/blob/main/logs/Brats2018_split2.log) | [log](https://github.com/dyh127/RFNet/blob/main/logs/Brats2018_split3.log) | [log](https://github.com/dyh127/RFNet/blob/main/logs/Brats2015.log) |
+### Checkpoints and logs [here](https://1drv.ms/f/c/19c079ba445b6520/IgAgZVtEunnAIIAZcwkAAAAAAaii-4VE91M6i1VNk5qCi3Q?e=LxErM6)
 
 
 ## Installation
