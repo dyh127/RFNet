@@ -44,7 +44,7 @@ We use pytorch1.2.0 and cuda9.0.
 
 For all datasets, we train our networks with ```2 * V100 (16G)```. 
 
-get dataset and environment [here](https://drive.google.com/drive/folders/1AwLwGgEBQwesIDTlWpubbwqxxd8brt5A?usp=sharing) and unzip them.
+get dataset and environment [here](https://1drv.ms/f/c/19c079ba445b6520/IgAgZVtEunnAIIAZcwkAAAAAAaii-4VE91M6i1VNk5qCi3Q?e=LxErM6) and unzip them.
 ```
 tar -xzf BRATS2020_Training_none_npy.tar.gz
 tar -xzf BRATS2018_Training_none_npy.tar.gz
